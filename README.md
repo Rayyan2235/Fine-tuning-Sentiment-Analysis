@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/_5jvz1TS)
 # MLB Project 4 Main - Fine-Tuning a Language Model for Sentiment Analysis
 
 ---
@@ -437,10 +436,4 @@ This demonstrates the power of transfer learning and domain adaptation.
 
 ---
 
-Good luck with your fine-tuning journey! 🚀
 
-Remember: Fine-tuning is one of the most practical and widely-used techniques in modern NLP. You're learning skills that power everything from chatbots to content moderation systems. The ability to adapt pre-trained models to specific tasks is invaluable in industry!
-
----
-
-**Pro tip**: After completing this project, you'll understand the foundations of how ChatGPT, Claude, and other AI assistants are trained. They use similar fine-tuning techniques (plus RLHF) on much larger models!
